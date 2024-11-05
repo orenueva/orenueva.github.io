@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://orenueva.github.io/IDX/sitemap_index.txt
+Sitemap: https://orenueva.github.io/bCK/sitemap_index.txt
+Sitemap: https://orenueva.github.io/osE/sitemap_index.txt
+Sitemap: https://orenueva.github.io/yni/sitemap_index.txt
